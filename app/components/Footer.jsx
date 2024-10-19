@@ -4,8 +4,8 @@ const Footer = () => {
 
   const CONTACT = {
     address: "Bangalore, India",
-    phoneNo: "+91-9686698498 ",
-    email: "dsatmcsdprojects@gmail.com",
+    phoneNo: "+91-7892438567",
+    email: "gsamhith19@gmail.com",
   };
   
   return (
